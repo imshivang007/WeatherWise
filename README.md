@@ -1,4 +1,4 @@
-# Weather App
+# WeatherWise
 
 Welcome to the **WeatherWise**! This application provides real-time weather information, allowing you to easily see current weather conditions, forecasts, and more for your desired locations.
 
