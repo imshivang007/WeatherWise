@@ -35,7 +35,7 @@ Welcome to the **WeatherWise**! This application provides real-time weather info
 ## Technologies Used
 
 - **Frontend**: React.js, CSS
-- **API**: OpenWeatherMap API (or any other weather API used)
+- **API**: OpenWeatherMap API 
 
 ## Contributing
 
